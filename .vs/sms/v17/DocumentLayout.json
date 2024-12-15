@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\repository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\repository\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\smsvendorcyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\smsvendorcyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\webapi\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\webapi\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\models\\domain\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\models\\domain\\messagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\models\\database\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\models\\database\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\smsvendorgrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\smsvendorgrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\smsvendorrestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\smsvendorrestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\vendorslimitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\vendorslimitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\interfaces\\ivendorslimitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\interfaces\\ivendorslimitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\configuration\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\configuration\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\interfaces\\isend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\interfaces\\isend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\repository\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\repository\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\services\\strategy\\smsvendorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\services\\strategy\\smsvendorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\sms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\configuration\\di\\diconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\configuration\\di\\diconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\models\\domain\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\models\\domain\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\models\\domain\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\models\\domain\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|c:\\users\\amichalaris\\downloads\\sms-main\\sms-main\\sms\\webapi\\apiresponsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66383104-81CB-41DF-BDD5-5060AD8DF6D4}|sms\\sms.csproj|solutionrelative:sms\\webapi\\apiresponsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Repository\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "sms\\Repository\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Repository\\MessageRepository.cs",
+              "RelativeToolTip": "sms\\Repository\\MessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:25:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMSVendorCYService.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorCYService.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\SMSVendorCYService.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorCYService.cs",
+              "RelativeToolTip": "sms\\Services\\SMSVendorCYService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:18.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISend.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Interfaces\\ISend.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\Interfaces\\ISend.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Interfaces\\ISend.cs",
+              "RelativeToolTip": "sms\\Services\\Interfaces\\ISend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:29:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Repository\\Interfaces\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "sms\\Repository\\Interfaces\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Repository\\Interfaces\\IMessageRepository.cs",
+              "RelativeToolTip": "sms\\Repository\\Interfaces\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:28:28.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVendorsLimitationService.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Interfaces\\IVendorsLimitationService.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\Interfaces\\IVendorsLimitationService.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Interfaces\\IVendorsLimitationService.cs",
+              "RelativeToolTip": "sms\\Services\\Interfaces\\IVendorsLimitationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:04:12.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendorsLimitationService.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\VendorsLimitationService.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\VendorsLimitationService.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\VendorsLimitationService.cs",
+              "RelativeToolTip": "sms\\Services\\VendorsLimitationService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:05:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMSVendorGRService.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorGRService.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\SMSVendorGRService.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorGRService.cs",
+              "RelativeToolTip": "sms\\Services\\SMSVendorGRService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:15.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Configuration\\Constants.cs",
+              "RelativeDocumentMoniker": "sms\\Configuration\\Constants.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Configuration\\Constants.cs",
+              "RelativeToolTip": "sms\\Configuration\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:39:21.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmsVendorStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Strategy\\SmsVendorStrategy.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\Strategy\\SmsVendorStrategy.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\Strategy\\SmsVendorStrategy.cs",
+              "RelativeToolTip": "sms\\Services\\Strategy\\SmsVendorStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:15:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\MessageRequest.cs",
+              "RelativeDocumentMoniker": "sms\\Models\\Domain\\MessageRequest.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\MessageRequest.cs",
+              "RelativeToolTip": "sms\\Models\\Domain\\MessageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:06:36.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Program.cs",
+              "RelativeDocumentMoniker": "sms\\Program.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Program.cs",
+              "RelativeToolTip": "sms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:10:22.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMSVendorRestService.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorRestService.cs",
+              "RelativeDocumentMoniker": "sms\\Services\\SMSVendorRestService.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Services\\SMSVendorRestService.cs",
+              "RelativeToolTip": "sms\\Services\\SMSVendorRestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Database\\Message.cs",
+              "RelativeDocumentMoniker": "sms\\Models\\Database\\Message.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Database\\Message.cs",
+              "RelativeToolTip": "sms\\Models\\Database\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:15:59.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\WebApi\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "sms\\WebApi\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\WebApi\\ApiResponse.cs",
+              "RelativeToolTip": "sms\\WebApi\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:52:58.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "sms\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "sms\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:40.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sms.csproj",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\sms.csproj",
+              "RelativeDocumentMoniker": "sms\\sms.csproj",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\sms.csproj",
+              "RelativeToolTip": "sms\\sms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T08:05:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "sms\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "sms\\Data\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:06:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DiConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Configuration\\DI\\DiConfiguration.cs",
+              "RelativeDocumentMoniker": "sms\\Configuration\\DI\\DiConfiguration.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Configuration\\DI\\DiConfiguration.cs",
+              "RelativeToolTip": "sms\\Configuration\\DI\\DiConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:06:14.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "sms\\Models\\Domain\\MessageResponse.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\MessageResponse.cs",
+              "RelativeToolTip": "sms\\Models\\Domain\\MessageResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:43:08.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\appsettings.json",
+              "RelativeDocumentMoniker": "sms\\appsettings.json",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\appsettings.json",
+              "RelativeToolTip": "sms\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T18:17:27.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "sms\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\appsettings.Development.json",
+              "RelativeToolTip": "sms\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T08:08:08.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\Vendor.cs",
+              "RelativeDocumentMoniker": "sms\\Models\\Domain\\Vendor.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\Models\\Domain\\Vendor.cs",
+              "RelativeToolTip": "sms\\Models\\Domain\\Vendor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiResponseGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\WebApi\\ApiResponseGeneric.cs",
+              "RelativeDocumentMoniker": "sms\\WebApi\\ApiResponseGeneric.cs",
+              "ToolTip": "C:\\Users\\amichalaris\\Downloads\\sms-main\\sms-main\\sms\\WebApi\\ApiResponseGeneric.cs",
+              "RelativeToolTip": "sms\\WebApi\\ApiResponseGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:04.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
